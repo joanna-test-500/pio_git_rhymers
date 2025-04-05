@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+//projekt jest poprawny
 import edu.kis.vh.nursery.DefaultCountingOutRhymer;
 import edu.kis.vh.nursery.HanoiRhymer;
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
