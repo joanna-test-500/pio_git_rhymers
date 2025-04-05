@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
-
+    //TODO: Te stałe powinny być publiczne, żeby klienci wiedzieli jaki jest romiar stosu.
     private static final int NUMBERS_COUNT = 12;
     private static final int EMPTY_INDEX = -1;
     private static final int EMPTY_RHYMER_VALUE = -1;
