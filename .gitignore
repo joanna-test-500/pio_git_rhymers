@@ -1,0 +1,34 @@
+# Skompilowane pliki Java
+*.class
+target/
+
+# Pliki IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+
+# Pliki logów
+*.log
+
+# Pliki pakietów
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Pliki tymczasowe
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Pliki systemu operacyjnego
+.DS_Store
+Thumbs.db 
